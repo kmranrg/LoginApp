@@ -1,6 +1,14 @@
 # LoginApp
 with Express &amp; Node JS
 
+## Screenshot
+
+![image](https://github.com/kmranrg/LoginApp/blob/main/screenshot.png)
+
+## How to Execute the project?
+
+`npm start`
+
 ## PART 01:
 
 Setting up the server with Express JS
