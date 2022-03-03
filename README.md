@@ -35,3 +35,12 @@ Adding the Login Functionality
 Commands/Steps Used in PART THREE:
 
 + create a new file `router.js`
+
+## PART 04:
+
+Implementing the Logout Feature
+--------------------------------------
+
+Commands/Steps Used in PART FOUR:
+
++ create a new file `dashboard.ejs` inside `views` folder
