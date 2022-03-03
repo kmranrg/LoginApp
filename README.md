@@ -26,3 +26,12 @@ Commands/Steps Used in PART TWO:
 + and inside that `public` folder create a new file `style.css`
 + inside the `public` folder, create a new folder `assets`
 + put `background.png` inside `assests` folder
+
+## PART 03:
+
+Adding the Login Functionality
+--------------------------------------
+
+Commands/Steps Used in PART THREE:
+
++ create a new file `router.js`
